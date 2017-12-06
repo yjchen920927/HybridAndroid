@@ -1,2 +1,2 @@
 # HybridAndroid
-![](./HybridAndroid.gif)  
+![效果](./HybridAndroid.gif) 
